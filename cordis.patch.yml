@@ -1,0 +1,11 @@
+# ===========================================================================
+# task-complete-chime — DSH bundle patch
+# ===========================================================================
+# 安装：
+#   dsh plugin --profile web add github:lilinshuei/task-complete-chime
+#   dsh plugin --profile desktop add github:lilinshuei/task-complete-chime
+# ===========================================================================
+
+- insert:
+    - id: task-complete-chime
+      name: task-complete-chime
